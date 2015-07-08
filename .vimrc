@@ -147,7 +147,7 @@ execute pathogen#infect()
 " vim powerline - fancy status line
 " git clone --depth 1 https://github.com/powerline/powerline.git
 set laststatus=2
-" let g:Powerline_symbols = 'fancy'
+"" let g:Powerline_symbols = 'fancy'
 
 " syntactic - syntax checking
 " git clone --depth 1 https://github.com/scrooloose/syntastic.git
