@@ -7,7 +7,7 @@ curl -LSso ./autoload/pathogen.vim https://tpo.pe/pathogen.vim
 pushd ./bundle
 
 # vim powerline - fancy status line
-git clone --depth 1 https://github.com/powerline/powerline.git
+git clone --depth 1 https://github.com/Lokaltog/vim-powerline
 # syntactic - syntax checking
 git clone --depth 1 https://github.com/scrooloose/syntastic.git
 # ctrlp - file/folder finder
