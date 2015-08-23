@@ -12,14 +12,14 @@ set nocompatible        " disable VI compability
 set ruler               " show relative position within the buffer
 set showcmd             " showcmd always
 set clipboard=unnamed   " Make clipboard behave like normal
-set mouse=a             " Enable mouse
+"" set mouse=a             " Enable mouse
 set paste
 
 " line numbers & length
 set number
 set nowrap
 set tw=79
-set colorcolumn=80      " hilight X column
+set colorcolumn=100     " hilight X column
 set fo-=t               " disable auto wrap when typing
 highlight ColorColumn ctermbg=233
 
