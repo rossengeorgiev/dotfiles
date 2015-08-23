@@ -1,6 +1,7 @@
 [core]
     askpass = git-gui--askpass
     pager = less -x1,5
+    editor = vim
 
 [user]
     name = Rossen Georgiev
