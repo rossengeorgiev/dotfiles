@@ -6,3 +6,5 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
+
+alias calc='python3 -ic "from math import *; import cmath"'
