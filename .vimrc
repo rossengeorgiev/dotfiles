@@ -99,6 +99,9 @@ map <A-Up> <C-w>k
 map <A-Right> <C-w>l
 map <A-Left> <C-w>h
 
+" Tab to navigate splits
+map <Tab> <C-w>W
+
 " switch boffers with ctrl arrows
 map <C-Right> :bn<CR>
 map <C-Left> :bN<CR>
@@ -111,6 +114,7 @@ nnoremap ` '
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
+
 
 " Go to command mode with one less keystroke
 nnoremap ; :
