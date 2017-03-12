@@ -17,8 +17,14 @@ git clone --depth 1 https://github.com/tpope/vim-fugitive.git
 # NERDTree - file tree
 git clone --depth 1 https://github.com/scrooloose/nerdtree.git
 # tagbar - sidebar with tags from current file
-git clone --depth 1 git://github.com/majutsushi/tagbar
+git clone --depth 1 https://github.com/majutsushi/tagbar
 # Python-mode
 ## git clone --depth 1 https://github.com/klen/python-mode.git
 # solarized color scheme
-git clone --depth 1 git://github.com/altercation/vim-colors-solarized.git
+git clone --depth 1 https://github.com/altercation/vim-colors-solarized.git
+
+# Salt syntax hilight
+git clone --depth 1 https://github.com/saltstack/salt-vim.git
+# Jinja syntax hilight
+git clone --depth 1 https://github.com/Glench/Vim-Jinja2-Syntax.git
+
