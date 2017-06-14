@@ -100,7 +100,7 @@ map <A-Right> <C-w>l
 map <A-Left> <C-w>h
 
 " Tab to navigate splits
-map <Tab> <C-w>W
+map <Tab> <C-w>w
 
 " switch boffers with ctrl arrows
 map <C-Right> :bn<CR>
