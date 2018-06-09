@@ -156,7 +156,7 @@ set laststatus=2
 " syntactic - syntax checking
 " git clone --depth 1 https://github.com/scrooloose/syntastic.git
 "" let g:syntastic_check_on_open=1
-let g:syntastic_python_checkers = ['python','flake8']
+let g:syntastic_python_checkers = ['python']
 
 " ctrlp - file/folder finder
 " git clone --depth 1 https://github.com/kien/ctrlp.vim.git
