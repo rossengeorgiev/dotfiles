@@ -10,7 +10,7 @@ alias .....="cd ../../../.."
 
 alias calc='python3 -ic "from math import *; import cmath"'
 
-test -f ~/.ssh-agent ~/bin/terraform && complete -C ~/bin/terraform terraform
+test -f ~/.ssh-agent && ~/bin/terraform && complete -C ~/bin/terraform terraform
 test -f ~/.ssh-agent && source ~/.ssh-agent
 
 # allow vim highlighting to work in tmux
